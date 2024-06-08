@@ -1,2 +1,2 @@
 # Shopify-Clone
-# https://adorable-travesseiro-223eef.netlify.app/
+# https://classy-dodol-c6d621.netlify.app/
